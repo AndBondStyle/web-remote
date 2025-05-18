@@ -1,0 +1,13 @@
+body {
+  background: #111;
+  overscroll-behavior-y: contain;
+}
+
+#app {
+  width: 100%;
+  height: 100%;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
